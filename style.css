@@ -13,4 +13,32 @@ body {
     border-radius: 23px;
     background: #FFF;
     box-shadow: 0px 50px 50px -20px rgba(53, 18, 122, 0.50);
+    overflow: hidden;
+}
+
+.illustration {
+    width: 471.694px;
+    fill: #5B36A0;
+    margin-left: -42px;
+    margin-top: 70px;
+    position: absolute;
+    overflow: hidden;
+
+}
+
+.bgPattern {
+    width: 964px;
+    height: 568px;
+    margin-left: -534px;
+    margin-top: -260px;
+    height: 933px;
+}
+
+.boxImg {
+    width: 200px;
+    height: 216px;
+    position: absolute;
+    margin-top: 180px;
+    margin-left: -520px;
+
 }
